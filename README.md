@@ -19,6 +19,7 @@
   * [分布式Seckill秒杀系统](https://binghe.gitcode.host/md/project/seckill/2023-04-16-%E3%80%8ASeckill%E7%A7%92%E6%9D%80%E7%B3%BB%E7%BB%9F%E3%80%8B%E5%BC%80%E7%AF%87-%E6%88%91%E8%A6%81%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E6%8A%97%E7%9E%AC%E6%97%B6%E7%99%BE%E4%B8%87%E6%B5%81%E9%87%8F%E7%9A%84%E7%A7%92%E6%9D%80%E7%B3%BB%E7%BB%9F.html)
   * [实战高并发设计模式](https://binghe.gitcode.host/md/core/design/concurrent/2023-09-17-start.html)
 * 中间件项目
+  * [手写高性能Polaris网关](https://binghe.gitcode.host/md/project/gateway/start/2024-05-19-start.html)
   * [手写高性能RPC项目](https://binghe.gitcode.host/md/middleware/rpc/2022-08-24-%E6%88%91%E8%AE%BE%E8%AE%A1%E4%BA%86%E4%B8%80%E6%AC%BETPS%E7%99%BE%E4%B8%87%E7%BA%A7%E5%88%AB%E7%9A%84RPC%E6%A1%86%E6%9E%B6.html)
 * 微服务项目
   * [商城脚手架项目（基于SpringCloud Alibaba全套技术栈实现）](https://binghe.gitcode.host/md/microservices/springcloudalibaba/2022-04-02-SpringCloudAlibaba%E4%B8%93%E6%A0%8F%E5%BC%80%E7%AF%87.html)
